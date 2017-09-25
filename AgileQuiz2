@@ -1,0 +1,91 @@
+Q1 What is the difference between Agile estimating vs. Traditional estimate ?
+
+		Estimating in traditional project management is usually task-based. In this, team decicde with project manager a list of tasks and then the subject matter experts take a stab at estimating the number of hours each task will take. Task-based estimating attempts to forecast an absolute number of hours for a task (or, at best, a range of hours).
+
+		 Estimating in agile project management is typically feature-based, by which I mean that entire features, such as "find a flight-by source and destination city," are estimated in their entirety. Feature-based estimating is more focused on relative size of features, a sort of "small, medium, large" scale that refrains from attaching an absolute time prediction to each task. It is also adaptive as after each iteration, we know how much time last type of feature took and modify plan according to that.
+
+		 Ussain Bolt complete 100 m in 10 sec ( 1 unit time)
+		 and may be 500 m in 50 sec ( 5 unit time)
+
+		 Me for 100 m in 20 sec (1 unit time) and may be 500 in 100 sec ( 5 unit time)
+
+		 software example (story point which are relative): login screen (2 unit), serach (10 unit)
+
+
+
+
+Q2 List all the top challenges you face in estimating.
+
+		While estimating, we try to measure productivity of a team by story points which are abstract in some cases.
+
+		We try to equate the story points with number of hours or days for a project.
+
+		Sometime, confusion arises between story points and business value of a story. 
+
+		In Agile, the first feautre make the base for deciding points for all other features. In some estimating techniques, there may be cognitive bias while deciding story points
+
+
+
+
+Q3 what are user stories?
+
+		A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement. An Agile user story is meant to be short, usually fitting on a sticky note or note card.
+
+		A user story template often uses the following type of format:
+		As a <role>, I want <feature> so that <reason>.
+
+		Examples of user stories are:
+		As a <user>, I want <to upload photos> so that <I can share photos with others>.
+
+
+Q4 List different types of estimating techniques.
+
+		Planning Poker
+		The Bucket System
+		T-Shirt Sizes
+		Big/Uncertain/Small
+		TFB / NFC / 1 (Sprint)
+		Dot Voting
+		Affinity Mapping
+		Ordering Protocol
+		Divide until Maximum Size or Less
+
+
+Q5 What are story points?
+
+		Story points are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product backlog item or any other piece of work.
+
+		When we estimate with story points, we assign a point value to each item. The raw values we assign are unimportant. What matters are the relative values. A story that is assigned a 2 should be twice as much as a story that is assigned a 1. It should also be two-thirds of a story that is estimated as 3 story points.
+
+		As story points represent the effort to develop a story, a team’s estimate must include everything that can affect the effort. That could include:
+		    The amount of work to do
+		    The complexity of the work
+		    Any risk or uncertainty in doing the work
+
+		When estimating with story points, be sure to consider each of these factors. 
+
+
+
+
+Q6 What is Planning-Poker estimating technique?
+
+		Planning Poker is a consensus-based technique for estimating, mostly used to estimate effort or relative size of user stories in Scrum. Teams use Planning Poker to estimate their product backlogs. It can also be used with story points, ideal days, or any other estimating unit.
+
+		In planning poker, members of the group make estimates by playing numbered cards face-down to the table, instead of speaking them aloud. The cards are revealed, and the estimates are then discussed. By hiding the figures in this way, the group can avoid the cognitive bias of anchoring, where the first number spoken aloud sets a precedent for subsequent estimates.
+
+
+
+
+
+Elapsed time vs Ideal time
+Ideal time:
+How long something will take if:
+It is all you work on
+no one interrupts you
+and everything you need is available
+
+
+
+story point:
+they are additive; time based estimates may not be
+they help avoid problems with unit confusion

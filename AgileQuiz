@@ -1,23 +1,27 @@
 Q1 What is agile?
 
-In layman's terms, "agile" development is a way to build software in a way that allows for adjustments to the project on an ongoing, regular basis.
+In layman's terms, "agile" development is a way to build software in a way that 
+allows for adjustments to the project on an ongoing, regular basis.
 
-This is opposed to "waterfall" where all requirements are set at the beginning of a project, and the project's success is measured by meeting all of those requirements.
+This is opposed to "waterfall" where all requirements are set at the beginning of a project, 
+and the project's success is measured by meeting all of those requirements.
 
 
 Q3 What is the Agenda of daily scrum ?
 
-			As per Scrum methodology, sprint can be of a day , a week or 15 days period.
+	As per Scrum methodology, sprint can be of a day , a week or 15 days period.
 
-			In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum”. These daily scrum meeting are not used as a problem-solving or issue resolution meeting but to answer three basic question to be answered by each team member.
+	In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum”. 
+	These daily scrum meeting are not used as a problem-solving or issue resolution meeting but 
+	to answer three basic question to be answered by each team member.
 
-			1. What task or work did you completed yesterday?
-			2. What will you do today?
-			3. Are there any barrier to your way?
+	1. What task or work did you completed yesterday?
+	2. What will you do today?
+	3. Are there any barrier to your way?
 
-			1. What task or work did you completed since last meeting?
-			2. What will you do till next meeting?
-			3. Are there any barrier to your way?
+	1. What task or work did you completed since last meeting?
+	2. What will you do till next meeting?
+	3. Are there any barrier to your way?
 
 Q4 What is velocity?
 
@@ -35,31 +39,47 @@ Planning meeting
 ***
 
 
-In Scrum, the sprint planning meeting is attended by the product owner, ScrumMaster and the entire Scrum team. Outside stakeholders may attend by invitation of the team, although this is rare in most companies.
+In Scrum, the sprint planning meeting is attended by the product owner, ScrumMaster and the entire Scrum team. 
+Outside stakeholders may attend by invitation of the team, although this is rare in most companies.
 
-During the sprint planning meeting, the product owner describes the highest priority features to the team. The team asks enough questions that they can turn a high-level user story of the product backlog into the more detailed tasks of the sprint backlog.
+During the sprint planning meeting, the product owner describes the highest priority features to the team. 
+The team asks enough questions that they can turn a high-level user story of the product backlog into 
+the more detailed tasks of the sprint backlog.
 
-The product owner doesn't have to describe every item being tracked on the product backlog. A good guideline is for the product owner to come to the sprint planning meeting prepared to talk about two sprint's worth of product backlog items.
+The product owner doesn't have to describe every item being tracked on the product backlog. 
+A good guideline is for the product owner to come to the sprint planning meeting prepared
+to talk about two sprint's worth of product backlog items.
 
-To make an example really simple, suppose a team always finishes five product backlog items. Their product owner should enter the meeting prepared to talk about the top 10 priorities.
+To make an example really simple, suppose a team always finishes five product backlog items. 
+Their product owner should enter the meeting prepared to talk about the top 10 priorities.
 
 There are two defined artifacts that result from a sprint planning meeting:
 
     A sprint goal
     A sprint backlog
 
-A sprint goal is a short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner. The following are example sprint goals on an eCommerce application:
+A sprint goal is a short, one- or two-sentence, description of what the team plans to achieve during the sprint. 
+It is written collaboratively by the team and the product owner. 
+The following are example sprint goals on an eCommerce application:
 
     Implement basic shopping cart functionality including add, remove, and update quantities.
     Develop the checkout process: pay for an order, pick shipping, order gift wrapping, etc.
 
-The sprint goal can be used for quick reporting to those outside the sprint. There are always stakeholders who want to know what the team is working on, but who do not need to hear about each product backlog item (user story) in detail.
+The sprint goal can be used for quick reporting to those outside the sprint. 
+There are always stakeholders who want to know what the team is working on, 
+but who do not need to hear about each product backlog item (user story) in detail.
 
-The success of the sprint will later be assessed during the sprint review meeting against the sprint goal, rather than against each specific item selected from the product backlog.
+The success of the sprint will later be assessed during the sprint review meeting against the sprint goal, 
+rather than against each specific item selected from the product backlog.
 
-The sprint backlog is the other output of sprint planning. A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated.
+The sprint backlog is the other output of sprint planning. 
+A sprint backlog is a list of the product backlog items the team commits to delivering plus 
+the list of tasks necessary to delivering those product backlog items. 
+Each task on the sprint backlog is also usually estimated.
 
-An important point to reiterate here is that it's the team that selects how much work they can do in the coming sprint. The product owner does not get to say, "We have four sprints left so you need to do one-fourth of everything I need." We can hope the team does that much (or more), but it's up to the team to determine how much they can do in the sprint.
+An important point to reiterate here is that it's the team that selects how much work they can do in the coming sprint. 
+The product owner does not get to say, "We have four sprints left so you need to do one-fourth of everything I need." 
+We can hope the team does that much (or more), but it's up to the team to determine how much they can do in the sprint.
 
 
 ***
@@ -71,17 +91,31 @@ An important point to reiterate here is that it's the team that selects how much
 
 
 Backlog
-	It is a list of tasks identified by the team to be completed during the Scrum sprint. During planning meeting, the team selects some number of product backlog items, usually in the form of user stories, and identifies the tasks necessary to complete each user story. Most teams also estimate how many hours each task will take someone on the team to complete.
-	It is important that the team selects the items and size of the sprint backlog wisely because they are the people committing to completing the tasks, they must be the people to choose what they are committing to during the Scrum sprint.
+	It is a list of tasks identified by the team to be completed during the Scrum sprint. 
+	During planning meeting, the team selects some number of product backlog items, usually in the form of user stories, 
+	and identifies the tasks necessary to complete each user story. 
+	Most teams also estimate how many hours each task will take someone on the team to complete.
+	
+	It is important that the team selects the items and size of the sprint backlog wisely because 
+	they are the people committing to completing the tasks, they must be the people to choose 
+	what they are committing to during the Scrum sprint.
+	
 	The sprint backlog is commonly maintained as a spreadsheet.
 
 Reterospect
-	It is a meeting that is held after an interation is completed in agile software development. In this meeting, the team reflects on what happened in the iteration and identifies actions for improvement going forward. Each member of the team members answers the following questions:
+	It is a meeting that is held after an interation is completed in agile software development. 
+	In this meeting, the team reflects on what happened in the iteration and identifies actions 
+	for improvement going forward. Each member of the team members answers the following questions:
 	    What worked well for us?
 	    What did not work well for us?
 	    What actions can we take to improve our process going forward?
-	It can be thought of as a "lessons learned" meeting. The team tells on how everything went and then decides what changes they want to make in the next iteration.
+	It can be thought of as a "lessons learned" meeting. 
+	The team tells on how everything went and then decides what changes they want to make in the next iteration.
 
 Review meeting
-	As each sprint is required to deliver a potentially shippable product increment which means that at the end of each sprint, the team has produced a coded, tested and usable piece of software. So at the end of each sprint, a sprint review meeting is held. During this meeting, the team shows what they accomplished during the sprint. Typically it is like a demo of the new features added in the product. 
+	As each sprint is required to deliver a potentially shippable product increment 
+	which means that at the end of each sprint, the team has produced a coded, tested and usable piece of software. 
+	So at the end of each sprint, a sprint review meeting is held. 
+	During this meeting, the team shows what they accomplished during the sprint. 
+	Typically it is like a demo of the new features added in the product. 
 
